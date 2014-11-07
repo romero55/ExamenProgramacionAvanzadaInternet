@@ -1,4 +1,2 @@
 ExamenProgramacionAvanzadaInternet
 ==================================
-
-and
